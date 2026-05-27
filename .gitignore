@@ -1,0 +1,14 @@
+
+backend/.env
+
+
+*.exe
+*.out
+backend/tmp/
+
+
+node_modules/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
